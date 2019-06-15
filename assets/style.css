@@ -11,10 +11,10 @@ p,a{
 h1,h2,h3,h4,h5,h6{
     font-family:'Georgia', Times, Times New Roman, serif !important;
 }
-.main{
-   /* width: 960px;
-    margin:0 auto;*/
-}
+/*.main{
+    width: 960px;
+    margin:0 auto;
+}*/
 .header-main{
     background-color: #ffffff;
     border-bottom: 2px solid #cccccc;
@@ -74,16 +74,6 @@ h1,h2,h3,h4,h5,h6{
     margin-top:15px;
     margin-bottom:15px;
 }
-.center-middle input{
-    width: 93%;
-    margin: 0 25px;
-    padding: 5px;
-}
-.center-middle textarea{
-    width: 93%;
-    margin: 0 25px;
-    height: 100px;
-}
 .center-middle-h2{
     color:#4aaaa5;
     padding:10px 0 4px 20px;
@@ -99,11 +89,6 @@ h1,h2,h3,h4,h5,h6{
     line-height: 31px;
     padding: 0 20px 0 20px;
     width: 100%;
-}
-.main-center-contact-p{
-    width: 94%;
-    margin: 10px auto 0 auto; 
-    line-height: 31px;
 }
 .contact-submit{
     padding: 8px;
