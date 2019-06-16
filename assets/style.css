@@ -119,13 +119,13 @@ h1,h2,h3,h4,h5,h6{
 }
 .portfolio-column div{
     position: absolute;
-    bottom: 22px;
+    bottom: 4px;
     color: white;
     background-color: #4aaaa5;
-    right: 40px;
+    right: 37px;
     width: 200px;
     text-align: center;
-    height: 25px;
+    height: 39px;
     padding-top: 7px;
 }
 .footer-custom{
