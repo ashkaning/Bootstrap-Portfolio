@@ -103,7 +103,7 @@ h1,h2,h3,h4,h5,h6{
     background-color: #dddddd;
     color: #4aaaa5;
 }
-.portfolio{
+/*.portfolio{
     width: 93%;
     margin: 20px auto;
     
@@ -116,7 +116,7 @@ h1,h2,h3,h4,h5,h6{
     display: -webkit-inline-box;
     position: relative;
     text-align: left;
-}
+}*/
 .portfolio-column div{
     position: absolute;
     bottom: 4px;
